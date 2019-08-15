@@ -6,7 +6,7 @@ ColorBuster is a tile matching game. If you see matching tiles next to each othe
 Updated ColorBuster with database integration for keeping scores. Also created a special tile when you get one more than the minimum tiles. 
 
 
-<h1>Demo</h1>
-![Demo](https://user-images.githubusercontent.com/14944787/63108921-fe3c4980-bf55-11e9-8e4d-3f7c0ef0fac1.gif)
+## Demo
+![Demo](Demo/Demo.gif)
 
 
