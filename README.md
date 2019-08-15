@@ -7,5 +7,5 @@ Updated ColorBuster with database integration for keeping scores. Also created a
 
 
 <h1>Demo</h1>
-![](Demo/Demo.gif)
+![Imgur Image](http://i.imgur.com/zTONrOD.jpg)
 
