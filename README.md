@@ -7,5 +7,6 @@ Updated ColorBuster with database integration for keeping scores. Also created a
 
 
 <h1>Demo</h1>
-![Imgur Image](http://i.imgur.com/zTONrOD.jpg)
+![Demo](https://user-images.githubusercontent.com/14944787/63108921-fe3c4980-bf55-11e9-8e4d-3f7c0ef0fac1.gif)
+
 
